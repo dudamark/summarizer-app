@@ -1,0 +1,6 @@
+langchain>=0.2.0
+langchain-community
+langchain-cohere
+tiktoken
+python-dotenv
+pypdf
